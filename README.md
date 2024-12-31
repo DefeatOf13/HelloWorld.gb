@@ -1,4 +1,4 @@
-# HELLOWORLD.gb
+# HelloWorld.gb
 Simple Homebrew app for Game Boy that prints "Hello World" on screen.
 This is the first Homebrew app i made for the Game Boy family of consoles.
 
